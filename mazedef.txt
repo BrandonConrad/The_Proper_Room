@@ -1,0 +1,15 @@
+K1	This is a colorful room where everything looks psychadelic. While the flashing colors might look pretty upon entry, you might not want to let that keep you in here, otherwise seizures are likely.	Where culinary delights are made	
+K2	The consumption room. This room is drenched in nothing but sweets, veggies, and other eddibles.  Help yourself, but don't take too much, You don't want to be greedy! You are almost there!	Where people eat breakfast	
+FR	You find a mysterious door that contains a portal... you curiously enter the portal and find yourself back on Earth with your friends and family! Congratulations! You have escaped!	Where people watch Breaking Bad	
+P	This is a room infested with giant bugs so be careful with what you touch. thankfully none of the insects seem harmless, but you must keep going.	Where people get bitten by mosquitos	
+DR	This room is filled with gold! You find yourself in a sea of gold bars and coins! This is a sign that you are getting closer to finding the exit. Also, everything is extremely heavy so don't bother trying to take anything.	Where people eat when royalty is over	
+HW	The nothing room. This is a room full of pure darkness! You do not find anything here other than yourself in a lonely pitch black void. Don't give up...	Just passing through	
+LA	The Aqua room where you find a whole bunch of rare water species. As you look at all of the bizare looking animals, you are still on the lookout for the exit portal, don't let the animals distract you too much. You're almost there!	Where people wash the bugs from their clothes	
+G	The Industrial room. You find yourself aimlessly walking in an obnoxiously built industrial room that is filled with nothing but bricks and pipes. This room does not provide the exit. 	Where people park their horseless trolleys	
+LR	The Nature room. While this is not the way out of the dimension, this place is full of wildlife. Animals going about their animalistic lives, but there is no exit here.	Where the dog suns himself	
+E	The Entrance. This is where your search begins. Should you make it out of here, only you can figure this place out!	Where people enter our humble abode	
+MAPDEF	4	4	
+	K1	DR	LR
+P	K2	HW	E
+	FR	LA	
+		G	
